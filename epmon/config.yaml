@@ -57,6 +57,16 @@ elements:
       - /backups
       - /policies
       - /vault/tags
+  cc:
+    service_type: cc
+    sdk_proxy: cc
+    urls:
+      - /gcn/central-networks
+      - /gcn/quotas
+      - /gcn/capabilities
+      - /gcb/sites
+      - /gcb/configs
+      - /gcb/gcbandwidths
   cce_skip_unver:
     service_type: cce
   cce:

@@ -103,6 +103,7 @@ matrix:
           - as_skip_v1
           - bms
           - cbr
+          - cc
           - cce_skip_unver
           - cce
           - ces
@@ -200,6 +201,7 @@ matrix:
           - as
           - as_skip_v1
           - cbr
+          - cc
           - cce_skip_unver
           - cce
           - ces
@@ -269,6 +271,7 @@ matrix:
           - as_skip_v1
           - bms
           - cbr
+          - cc
           - cce_skip_unver
           - cce
           - ces
@@ -359,6 +362,7 @@ matrix:
           - as
           - as_skip_v1
           - cbr
+          - cc
           - cce_skip_unver
           - cce
           - ces
